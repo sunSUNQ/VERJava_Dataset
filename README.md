@@ -1,6 +1,6 @@
 # Introduction
 
-This is the replication package for the paper titled "VERJava: Multi-level Vulnerable Version Identification for Java OSS". 
+This is the replication package for the paper titled "VERJava: Multi-level Vulnerable Version Identification for Java OSS" (ICSME 2022). 
 
 # Folders
 
